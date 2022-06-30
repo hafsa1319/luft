@@ -49,7 +49,7 @@
     "imageResize": true,
     "publishChangesOnly": false,
     "favicon": false,
-    "mbrsiteDomain": "6qxin4w7vj",
+    "mbrsiteDomain": "lxm0lhda3i",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
@@ -79,7 +79,7 @@
     "PWA": {
       "enabled": true,
       "name": "luft",
-      "icon": "@ADDONS_PATH@/pwa-builder/assets/icons/512x512.png",
+      "icon": "@PROJECT_PATH@/assets/images/logo1-512x512.png",
       "themeColor": "#103178"
     },
     "lazyLoad": false,
