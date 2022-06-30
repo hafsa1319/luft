@@ -49,7 +49,7 @@
     "imageResize": true,
     "publishChangesOnly": false,
     "favicon": false,
-    "mbrsiteDomain": "tmg7t6hzpd",
+    "mbrsiteDomain": "eyjwfbu3v0",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
@@ -57,7 +57,7 @@
     "gdpr": false,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "cookiesAlert": false,
-    "uniqCompNum": 6,
+    "uniqCompNum": 7,
     "versionPublish": "5.6.11",
     "screenshot": "screenshot.png",
     "chatbutton": {
@@ -932,6 +932,23 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n<div>\n<div id=\"runreview\" data-comid=\"1036\" data-customerid=\"2623438\" data-projectid=\"2623439\" data-widgetid=\"3715273\"></div>\n[JS_CODE_0] \n</div>",
+          "_customCSS": "/* Type valid CSS here */\n",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_sourceTheme": "curem4",
+          "_anchor": "custom-html-6",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script asp-location=\"Footer\" src=\"https://assest.allreview.io/index.js\"></script>"
+          ]
         },
         {
           "alias": false,
