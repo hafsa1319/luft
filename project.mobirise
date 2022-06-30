@@ -47,7 +47,7 @@
       }
     ],
     "imageResize": true,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "favicon": false,
     "mbrsiteDomain": "oyvfi2q3jj",
     "robotsSwitcher": false,
