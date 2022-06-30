@@ -49,7 +49,7 @@
     "imageResize": true,
     "publishChangesOnly": false,
     "favicon": false,
-    "mbrsiteDomain": "eyjwfbu3v0",
+    "mbrsiteDomain": "tlgo1jqxof",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
@@ -84,7 +84,8 @@
     },
     "lazyLoad": false,
     "cssOptimize": false,
-    "pwa-switcher": true
+    "pwa-switcher": true,
+    "global_before_html": "<script src=\"https://assest.allreview.io/index.js\"></script>"
   },
   "pages": {
     "index.html": {
