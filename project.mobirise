@@ -49,7 +49,7 @@
     "imageResize": true,
     "publishChangesOnly": true,
     "favicon": false,
-    "mbrsiteDomain": "ihuoo878ee",
+    "mbrsiteDomain": "oyvfi2q3jj",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
@@ -59,7 +59,32 @@
     "cookiesAlert": false,
     "uniqCompNum": 6,
     "versionPublish": "5.6.11",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "chatbutton": {
+      "phone": "+12345678901",
+      "message": "",
+      "size": "65px",
+      "backgroundColor": "#e5ddd5",
+      "position": "left",
+      "popupMessage": "Hi!👋\n\nType a message here. It will go straight to our phone! 🔥\n\nMobirise Team",
+      "showPopup": false,
+      "showOnIE": true,
+      "autoOpenTimeout": 5,
+      "headerColor": "#39847a",
+      "headerTitle": "👋 Chat with us on WhatsApp!",
+      "placeholder": "Type here",
+      "zIndex": 10,
+      "enabled": true
+    },
+    "PWA": {
+      "enabled": true,
+      "name": "luft",
+      "icon": "@ADDONS_PATH@/pwa-builder/assets/icons/512x512.png",
+      "themeColor": "#103178"
+    },
+    "lazyLoad": true,
+    "cssOptimize": false,
+    "pwa-switcher": true
   },
   "pages": {
     "index.html": {
